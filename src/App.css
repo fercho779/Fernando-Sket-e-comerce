@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.mainProject{
+  background: url(../public/fondo-e-comerce.png) top left/cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.navContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 24px 40px;
+}
+
+.aLink {
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  font-size: 18px;
+  font-weight: 600;
+  color: #fefefe;
+  transition: color 0.25s;
+}
+.aLink:hover{
+  color: black;
+}
+.itemContainer{
+  display: flex;
+  justify-content: center;
+  margin: 0 20em;
+}
