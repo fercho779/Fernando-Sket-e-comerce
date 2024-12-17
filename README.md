@@ -9,9 +9,7 @@ Bienvenido a Sket, una tienda online de remeras modernas y únicas. Este proyect
 -Ejecute npm install para instalar dependencias y crear la carpeta node_modules
 -Ejecute npm run dev para levantarlo en servidor local
 ### Version Host
-[Sket-Shop]
-Si desea ver el proyecto online, puede ingresar al siguiente link
-
+Si desea ver el proyecto online, puede ingresar al siguiente link [Sket-Shop](fernando-sket-e-comerce.vercel.app)
 ### Librerias utilizadas
 [Bootstrap](https://getbootstrap.com/) utilizada para el styling de la app
 [Firebase] (https://firebase.google.com/?hl=es-419) utilizada como base de datos
