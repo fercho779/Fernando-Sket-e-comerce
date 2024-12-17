@@ -1,8 +1,21 @@
-# React + Vite
+# Sket Shop 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a Sket, una tienda online de remeras modernas y únicas. Este proyecto fue desarrollado utilizando React.js, enfocado en ofrecer una experiencia de compra amigable, atractiva y funcional.
 
-Currently, two official plugins are available:
+![image] (/public/readmeFoto.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instalacion
+-Clone el repositorio
+-Ejecute npm install para instalar dependencias y crear la carpeta node_modules
+-Ejecute npm run dev para levantarlo en servidor local
+### Version Host
+[Sket-Shop]
+Si desea ver el proyecto online, puede ingresar al siguiente link
+
+### Librerias utilizadas
+[Bootstrap](https://getbootstrap.com/) utilizada para el styling de la app
+[Firebase] (https://firebase.google.com/?hl=es-419) utilizada como base de datos
+[React-Router-Dom] (https://reactrouter.com/) navegación por rutas
+[React-Spinners](https://reactrouter.com/) componentes spinners
+
+### Desarrollado por Fernando Zambrano

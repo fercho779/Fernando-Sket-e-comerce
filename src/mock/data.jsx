@@ -24,7 +24,7 @@ const productos = [
         name: 'Remera Allboys Negro',
         stock: 15,
         price: 13000,
-        descripcion: 'Demuestra tu pasión por el equipo de básquet All Boys con esta camiseta negra de estilo clásico. Confeccionada en algodón de alta calidad, ofrece comodidad y durabilidad para el uso diario.',
+        descripcion: 'Demuestra tu pasión por el equipo de básquet All Boys con esta camiseta negra de estilo clásico. Confeccionada en algodón de alta calidad, ofrece comodidad y durabilidad para el uso diario',
         img: '../../public/remera_allBoys_negra.webp',
         category: 'Oferta'
     },
@@ -98,6 +98,6 @@ export const getOneProduct = (id)=>{
             }else{
                 reject('No hay data')
             }
-        },3000)
+        },2000)
     })
 }
